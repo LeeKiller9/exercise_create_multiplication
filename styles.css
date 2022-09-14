@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 50px;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+    font-size: 20px;
+}
+
+td {
+    text-align: left;
+    width: 120px;
+    height: 35px;
+    border: 1px solid black;
+}
+
+button {
+    width: 300px;
+    font-size: 20px;
+    margin: 50px 0;
+}
